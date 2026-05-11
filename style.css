@@ -1,0 +1,84 @@
+header{
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.center{
+    text-align: center;
+}
+
+nav{
+    background-color: #dfdfdf;
+}
+
+#logo{
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+.key{
+    width: 900px;
+}
+
+.list{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    width: 450px;
+    margin: auto;
+}
+
+.list li{
+    margin: 20px;
+    text-align: center;
+}
+
+.noul{
+    text-decoration: none;
+    color: #333;
+    transition: color 0.3s ease;
+}
+
+.noul:hover{
+    color: #777;
+}
+
+.kamon{
+    width: 100px;
+    height: auto;
+}
+
+.syokai{
+    width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+footer{
+    background-color: #eeeaea;
+}
+
+.footer_logo{
+    width: 200px;
+    margin: auto;
+    text-align: center;
+}
+
+table{
+    width: 900px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+#iti{
+    width: 250px;
+}
+
+#arasuji{
+    width: 900px;
+    margin: auto;
+    text-align: center;
+}
